@@ -31,6 +31,7 @@ To run this project, you'll need:
 
 ```bash
 git clone https://github.com/Timmy8/MySapper2021.git
+```
 
 2. Navigate into the project directory:
 
