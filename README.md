@@ -35,19 +35,25 @@ git clone https://github.com/Timmy8/MySapper2021.git
 2. Navigate into the project directory:
 
 ```bash
-cd MySapper2021
+cd MySapper2021/src
 ```
 
 3. Build the project using Maven:
 
 ```bash
-mvn clean install
+javac
 ```
 
-4. Run the application:
+4. Compile the application:
 
 ```bash
-java -jar target/MySapper2021.jar
+javac StartWindow.java
+```
+
+5. Run the application:
+
+```bash
+java StartWindow
 ```
 
 Alternatively, you can run the game through your preferred Java IDE by running the main method in the appropriate class.
