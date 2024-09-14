@@ -60,8 +60,10 @@ Alternatively, you can run the game through your preferred Java IDE by running t
 
 ### Game Levels
 
-You can choose any size for the game, the number of mines depends on the size of the field
-
+- **Easy**: 9x9 grid with 10 mines
+- **Medium**: 16x16 grid with 40 mines
+- **Hard**: 30x16 grid with 99 mines
+- 
 ## Contributing
 
 Contributions are welcome! If you have suggestions or find bugs, feel free to open an issue or submit a pull request.
