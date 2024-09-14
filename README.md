@@ -39,19 +39,13 @@ git clone https://github.com/Timmy8/MySapper2021.git
 cd MySapper2021/src
 ```
 
-3. Build the project using Maven:
-
-```bash
-javac
-```
-
-4. Compile the application:
+3. Compile the application:
 
 ```bash
 javac StartWindow.java
 ```
 
-5. Run the application:
+4. Run the application:
 
 ```bash
 java StartWindow
